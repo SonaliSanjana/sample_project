@@ -1,0 +1,50 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Danfo&family=Jersey+25+Charted&family=Noto+Sans+JP:wght@100..900&family=Noto+Sans+KR:wght@100..900&family=Poetsen+One&family=Sedan+SC&display=swap');
+
+body {
+    background-image: url(pic/pexels-wendywei-24182751.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat;
+
+}
+#heading1 {
+    background-color: rgb(154, 34, 130);
+    color: #f3f0f0;
+    text-align: center;
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border:20px solid #f3f0f0;
+}
+.heading2 {
+    background-color: rgb(241, 194, 241);
+    color: #1a1a1a;
+    text-align: center;
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;; ;
+}
+p {
+    background-color: rgb(248, 85, 180);
+    font-family: "Sedan SC", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.box01{
+    background-color: aquamarine;
+    width: 150px;
+    height: 150px; 
+}
+.box02{
+    background-color: rgb(255, 127, 219);
+    width: 50px;
+    height: 50px;
+    position: sticky;
+    top: 50px;
+    left: 50px;
+}
